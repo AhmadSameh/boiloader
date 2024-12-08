@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "status.h": "c",
+        "system_table.h": "c",
+        "output.h": "c",
+        "uefi_data.h": "c"
+    }
+}
